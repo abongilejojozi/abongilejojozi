@@ -36,14 +36,6 @@
 
 ## 📂 Featured Projects
 
-- 🎮 **[Platform Hero](https://github.com/abongilejojozi/Platform-Hero)**
-- 🌐 **[ZakaFella Website](https://github.com/bullcode-monger/ZakaFella/tree/main/MyWebsite)**
-- 🛒 **[MongoDB E-Commerce System](https://github.com/Keneilwe-B/JMK)**
-- ☕ **[JustChecking](https://github.com/abongilejojozi/JustChecking)**
-- 🌿 **[Functional Programming – Elm](https://github.com/abongilejojozi/Functional-Programming-Elm)**
-
-## 📂 Featured Projects
-
 [![Platform Hero](https://img.shields.io/badge/🎮-Platform_Hero-0A66C2?style=for-the-badge)](https://github.com/abongilejojozi/Platform-Hero)
 
 [![ZakaFella](https://img.shields.io/badge/🌐-ZakaFella-28A745?style=for-the-badge)](https://github.com/bullcode-monger/ZakaFella/tree/main/MyWebsite)

@@ -36,11 +36,11 @@
 
 ## 📂 Featured Projects
 
-- 🎮 Platform Hero
-- 🌐 ZakaFella Website
-- 🛒 MongoDB E-Commerce System
-- ☕ JustChecking
-- 🌿 Functional Programming (Elm)
+- 🎮 **[Platform Hero](https://github.com/abongilejojozi/Platform-Hero)**
+- 🌐 **[ZakaFella Website](https://github.com/bullcode-monger/ZakaFella/tree/main/MyWebsite)**
+- 🛒 **[MongoDB E-Commerce System](https://github.com/Keneilwe-B/JMK)**
+- ☕ **[JustChecking](https://github.com/abongilejojozi/JustChecking)**
+- 🌿 **[Functional Programming – Elm](https://github.com/abongilejojozi/Functional-Programming-Elm)**
 
 ---
 
@@ -48,12 +48,12 @@
 
 ### 📫 Connect with Me
 
-<a href="https://github.com/abongilejojozi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/abongilejojozi" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abongile-jojozi-72985011a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/abongile-jojozi-72985011a" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>

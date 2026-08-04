@@ -2,16 +2,6 @@
   <img src="banner.png" alt="Abongile Jojozi Banner" width="100%">
 </p>
 
-<div align="center">
-
-# Hi 👋, I'm Abongile Jojozi
-
-### BSc Computer Science & Applied Mathematics
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science;Applied+Mathematics;Java+%7C+Python+%7C+C+%7C+JavaScript;Always+Learning+Something+New" />
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me

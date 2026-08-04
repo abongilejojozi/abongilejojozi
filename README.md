@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="images/banner.png" alt="Abongile Jojozi Banner" width="100%">
+</p>
+
 <div align="center">
 
 # Hi 👋, I'm Abongile Jojozi
 
 ### BSc Computer Science & Applied Mathematics
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Science+Student;Java+%7C+Python+%7C+C+%7C+JavaScript;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science;Applied+Mathematics;Java+%7C+Python+%7C+C+%7C+JavaScript;Always+Learning+Something+New" />
 
 </div>
 
@@ -12,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 BSc Computer Science & Applied Mathematics professional
+- 🎓 BSc Computer Science & Applied Mathematics
 - 🏆 Best Information Systems Student 2025
 - 📖 Interested in Data Science, Machine Learning, Software Development, Databases, Programming Languages and Web Technologies
 - 🌱 Currently learning Functional Programming using Elm
@@ -33,8 +37,8 @@
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/></a>
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/></a>
-<a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/></a>
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/></a>
+<a href="https://gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/></a>
 
 </p>
 
@@ -48,7 +52,6 @@
 - ☕ JustChecking
 - 🌿 Functional Programming (Elm)
 
-
 ---
 
 <div align="center">
@@ -59,6 +62,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn when ready -->
+<a href="https://www.linkedin.com/in/abongile-jojozi-72985011a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>

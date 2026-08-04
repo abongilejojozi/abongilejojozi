@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Abongile Jojozi Banner" width="100%">
+  <img src="banner.png" alt="Abongile Jojozi Banner" width="100%">
 </p>
 
 <div align="center">

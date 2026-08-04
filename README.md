@@ -42,6 +42,17 @@
 - ☕ **[JustChecking](https://github.com/abongilejojozi/JustChecking)**
 - 🌿 **[Functional Programming – Elm](https://github.com/abongilejojozi/Functional-Programming-Elm)**
 
+## 📂 Featured Projects
+
+[![Platform Hero](https://img.shields.io/badge/🎮-Platform_Hero-0A66C2?style=for-the-badge)](https://github.com/abongilejojozi/Platform-Hero)
+
+[![ZakaFella](https://img.shields.io/badge/🌐-ZakaFella-28A745?style=for-the-badge)](https://github.com/bullcode-monger/ZakaFella/tree/main/MyWebsite)
+
+[![MongoDB E-Commerce](https://img.shields.io/badge/🛒-MongoDB_E--Commerce-47A248?style=for-the-badge)](https://github.com/Keneilwe-B/JMK)
+
+[![JustChecking](https://img.shields.io/badge/☕-JustChecking-6F42C1?style=for-the-badge)](https://github.com/abongilejojozi/JustChecking)
+
+[![Functional Programming - Elm](https://img.shields.io/badge/🌿-Functional_Programming_Elm-1293D8?style=for-the-badge)](https://github.com/abongilejojozi/Functional-Programming-Elm)
 ---
 
 <div align="center">

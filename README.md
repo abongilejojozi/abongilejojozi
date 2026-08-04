@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Abongile Jojozi
 
-### BSc Computer Science & Applied Mathematics Student @ Rhodes University
+### BSc Computer Science & Applied Mathematics
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Science+Student;Java+%7C+Python+%7C+C+%7C+JavaScript;Always+Learning+Something+New" />
 

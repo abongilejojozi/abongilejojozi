@@ -48,23 +48,6 @@
 - ☕ JustChecking
 - 🌿 Functional Programming (Elm)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abongilejojozi&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abongilejojozi&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abongilejojozi&theme=github-dark"/>
-
-</p>
 
 ---
 

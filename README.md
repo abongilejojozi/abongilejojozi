@@ -13,8 +13,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 BSc Computer Science & Applied Mathematics student at Rhodes University
-- 🏆 Best Computer Science Student (Second Year)
-- 📖 Interested in Software Development, Databases, Programming Languages and Web Technologies
+- 🏆 Best Information Systems Student 2025
+- 📖 Interested in Data Science, Machine Learning, Software Development, Databases, Programming Languages and Web Technologies
 - 🌱 Currently learning Functional Programming using Elm
 
 ---
